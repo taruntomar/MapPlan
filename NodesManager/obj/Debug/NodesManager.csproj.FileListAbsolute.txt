@@ -1,0 +1,4 @@
+C:\Users\tarunkumar.tomar\documents\visual studio 2013\Projects\MapPlan\NodesManager\bin\Debug\NodesManager.dll
+C:\Users\tarunkumar.tomar\documents\visual studio 2013\Projects\MapPlan\NodesManager\bin\Debug\NodesManager.pdb
+C:\Users\tarunkumar.tomar\documents\visual studio 2013\Projects\MapPlan\NodesManager\obj\Debug\NodesManager.dll
+C:\Users\tarunkumar.tomar\documents\visual studio 2013\Projects\MapPlan\NodesManager\obj\Debug\NodesManager.pdb

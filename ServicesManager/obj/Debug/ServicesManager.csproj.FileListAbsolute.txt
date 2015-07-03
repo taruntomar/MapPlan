@@ -1,0 +1,4 @@
+C:\Users\tarunkumar.tomar\documents\visual studio 2013\Projects\MapPlan\ServicesManager\bin\Debug\ServicesManager.dll
+C:\Users\tarunkumar.tomar\documents\visual studio 2013\Projects\MapPlan\ServicesManager\bin\Debug\ServicesManager.pdb
+C:\Users\tarunkumar.tomar\documents\visual studio 2013\Projects\MapPlan\ServicesManager\obj\Debug\ServicesManager.dll
+C:\Users\tarunkumar.tomar\documents\visual studio 2013\Projects\MapPlan\ServicesManager\obj\Debug\ServicesManager.pdb
